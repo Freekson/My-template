@@ -19,10 +19,10 @@ gulp build - является дефортным таском
 
 ## Установленные NPM пакеты
 [gulp](https://www.npmjs.com/package/gulp) Сборщик Gulp
-[gulp-less](https://www.npmjs.com/package/gulp-less) Компиляция LESS файлов в CSS
-[gulp-babel](https://www.npmjs.com/package/gulp-babel) Компиляция новых стандартов JS в более старые
-[gulp-concat](https://www.npmjs.com/package/gulp-concat) Обединение нескольких файлов в один
-[gulp-uglify](https://www.npmjs.com/package/gulp-uglify) Сжатие и оптимизация JS кода
-[gulp-rename](https://www.npmjs.com/package/gulp-rename) Переименовывает файлы
-[gulp-clean-css](https://www.npmjs.com/package/gulp-clean-css) минификация и оптимизация CSS файлов
+[gulp-less](https://www.npmjs.com/package/gulp-less) Компиляция LESS файлов в CSS  
+[gulp-babel](https://www.npmjs.com/package/gulp-babel) Компиляция новых стандартов JS в более старые  
+[gulp-concat](https://www.npmjs.com/package/gulp-concat) Обединение нескольких файлов в один  
+[gulp-uglify](https://www.npmjs.com/package/gulp-uglify) Сжатие и оптимизация JS кода  
+[gulp-rename](https://www.npmjs.com/package/gulp-rename) Переименовывает файлы  
+[gulp-clean-css](https://www.npmjs.com/package/gulp-clean-css) минификация и оптимизация CSS файлов  
 [del](https://www.npmjs.com/package/del) Удаление каталогов и файлов
