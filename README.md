@@ -18,7 +18,7 @@ gulp watch - запуск автоматического выполнения st
 gulp build - является дефортным таском 
 
 ## Установленные NPM пакеты
-[gulp](https://www.npmjs.com/package/gulp) Сборщик Gulp
+[gulp](https://www.npmjs.com/package/gulp) Сборщик Gulp  
 [gulp-less](https://www.npmjs.com/package/gulp-less) Компиляция LESS файлов в CSS  
 [gulp-babel](https://www.npmjs.com/package/gulp-babel) Компиляция новых стандартов JS в более старые  
 [gulp-concat](https://www.npmjs.com/package/gulp-concat) Обединение нескольких файлов в один  
