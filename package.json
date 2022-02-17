@@ -1,8 +1,4 @@
 {
-    "dependencies": {
-        "del": "^6.0.0",
-        "gulp-less": "^5.0.0"
-    },
     "browserslist": [
         "last 2 version",
         "> 1%",
@@ -11,12 +7,20 @@
     "name": "gulp-assembly",
     "version": "1.0.0",
     "main": "index.js",
+    "type": "module",
     "devDependencies": {
         "browser-sync": "^2.27.7",
+        "del": "^6.0.0",
         "gulp": "^4.0.2",
         "gulp-autoprefixer": "^8.0.0",
+        "gulp-babel": "^8.0.0",
         "gulp-clean-css": "^4.3.0",
         "gulp-concat": "^2.6.1",
+        "gulp-imagemin": "^8.0.0",
+        "gulp-less": "^5.0.0",
+        "gulp-newer": "^1.4.0",
+        "gulp-size": "^4.0.1",
+        "gulp-sourcemaps": "^3.0.0",
         "gulp-terser": "^2.1.0"
     },
     "scripts": {
@@ -25,5 +29,9 @@
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "description": ""
+    "description": "",
+    "dependencies": {
+        "@babel/core": "^7.17.5",
+        "@babel/preset-env": "^7.16.11"
+    }
 }
