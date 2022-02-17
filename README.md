@@ -2,8 +2,8 @@
 
 ## Структура каталогов стилей и скриптов:
 >./src/less/\*\*/\*.less
->/src/less/css/\*\*/\*.css
->./src/scripts/\*\*/\*.js   
+>/src/less/css/\*\*/\*.css  
+>./src/scripts/\*\*/\*.js     
 >./src/img/\*\*/\*.png/.jpg/.jpeg
 
 ## Инструкция
