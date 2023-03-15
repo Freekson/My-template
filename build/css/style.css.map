@@ -1,0 +1,1 @@
+{"version":3,"sources":["_footer.css","_header.css"],"names":[],"mappings":"AAAA,OCAA,ODCA,QAAA,YAAA,QAAA,YAAA,QAAA","file":"style.css","sourcesContent":["footer {\n  display: flex;\n}\n","header {\n  display: flex;\n}\n"]}
