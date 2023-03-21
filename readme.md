@@ -26,7 +26,7 @@ gulp build - is a default task
 [gulp-babel](https://www.npmjs.com/package/gulp-babel) - Compiling new JS standards to older ones  
 [gulp-concat](https://www.npmjs.com/package/gulp-concat) - Combining multiple files into one  
 [gulp-terser](https://www.npmjs.com/package/gulp-terser) - JS code compression and optimization  
-[gulp-clean-css](https://www.npmjs.com/package/gulp-clean-css) - minification and optimization of CSS files
+[gulp-clean-css](https://www.npmjs.com/package/gulp-clean-css) - minification and optimization of CSS files  
 [del](https://www.npmjs.com/package/del) - Removing directories and files  
 [gulp-sourcemaps](https://www.npmjs.com/search?q=gulp-sourcemaps) - Creates sourcemaos  
 [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer) - Adds prefixes to CSS properties  
